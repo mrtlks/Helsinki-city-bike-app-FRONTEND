@@ -16,7 +16,7 @@ export default function Stations() {
 
   useEffect(() => fetchData(), []);
 
-  const url = 'http://localhost:8080/api/allstations'
+  const url = 'https://helsinki-city-bike-app-backend.herokuapp.com/stations'
   //cors -ongelma(access-to-fetch-at-from-origin--has-been-blocked-by-cors)
   //--> lisää @CrossOrigin backendin controlleriin
 
