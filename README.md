@@ -1,3 +1,3 @@
 Helsinki City Bike App
-UI for Helsinki-city_bike-app-Backend
+UI for Helsinki-city-bike-app-Backend
 
